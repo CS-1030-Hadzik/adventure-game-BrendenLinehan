@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-print("Welcome to the Adventure Game!")  
-print("Your journey begins here...")
-=======
 """
 Adventure Game
 Author: Brenden J Linehan
@@ -15,4 +11,3 @@ to navigate through a mysterious forest.
 
 print("Welcome to the Adventure Game!")
 print("Your journey begins here...")
->>>>>>> 0127dec6516223a959fff8396a7d9c6491482873

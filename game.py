@@ -1,6 +1,6 @@
 """
 Adventure Game
-Author: Brenden Linehan
+Author: Brenden J Linehan
 Version: 1.0
 Description:
 This is a text-based adventure game where the player makes choices
